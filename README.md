@@ -74,7 +74,7 @@ It is included here as `netflix_titles.csv`.
         * Has the rate at which Netflix adds new movies changed through the years?
     * The visualizations must be created by separate code cells in the notebook.
     * Each visualization must be accompanied by a Markdown cell that explains the visualization, your choices, and the point you are trying to convey.
-    * You are free to create any visualization that you like. However, you must explain the reasoning behind your choices and the visualization must be appropriate for the information you are attempting to learn or convey. (See readings and lecture slides for more details.)
+    * You are free to create any visualization that you like. However, you must explain the reasoning behind your choices, and the visualization must be appropriate for the information you are attempting to learn or convey. (See readings and lecture slides for more details.)
 
 ## Include Your Visualizations in this `README.md`
 
